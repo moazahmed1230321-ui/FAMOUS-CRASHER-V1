@@ -5,7 +5,7 @@ global.footer = "𝙁𝘼𝙈Ø𝙐𝙎 𝘿𝙀𝙑"
 global.status = true 
 global.idSaluran = "120363330289360382@newsletter"
 global.mess = {
-    owner: "[ ! ] USER IS NOT OWNER"
+    owner: "[ 49 15510 189345 ] USER IS NOT OWNER"
 }
 
 let file = require.resolve(__filename)
